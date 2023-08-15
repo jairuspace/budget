@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "budget"
+  site-url: "https://jairuspace.github.io/budget"
+  description: "Backend for budgeting app"
+  repo-branch: main
+  repo-url: "https://github.com/jairuspace/budget"
